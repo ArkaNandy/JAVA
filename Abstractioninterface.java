@@ -12,7 +12,7 @@ interface Herbivore{
 
     
 
-}
+
 
 class Horse implements Animal,Herbivore{ /// horse is an animal as well as a herbivore
     public void walk(){ //// multiple inheritance,which happens through interference only

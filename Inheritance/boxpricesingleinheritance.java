@@ -2,7 +2,7 @@ package Inheritance;
 public class boxpricesingleinheritance extends boxweight{
     double cost;
     boxpricesingleinheritance(){
-        super();
+        super(null);
         this.cost=-1;
     }
     boxpricesingleinheritance(boxpricesingleinheritance other){

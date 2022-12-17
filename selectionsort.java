@@ -24,5 +24,5 @@ public class selectionsort {
         }
         printArray(array);
     }
-    
+     
 }

@@ -2,7 +2,7 @@ import java.util.*;
 public class printthegreetingsusingswitchcase {
     public static void main(String args[]){
         Scanner sc= new Scanner(System.in);
-        int button = sc.nextInt();
+        int button = sc.nextInt(); /// input from the user for the button
 
         switch(button){
             case 1 : System.out.println("hello");

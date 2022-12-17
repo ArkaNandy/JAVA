@@ -23,6 +23,7 @@ public class recursionbinarysearch {
         if(target>array[mid]){
             return binarysearch(array,target,mid+1,end);
         }
+        return mid;
 
 
         
