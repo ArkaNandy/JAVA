@@ -4,25 +4,31 @@ import java.util.Scanner;
 
 public class palindrome {
     public static void main(String[] args) {
-        int a=1;
-        int b=1;
-        int k=0;
-        System.out.println("Enter any number");
+       
+        System.out.println("Enter any text or number");
         Scanner sc= new Scanner(System.in);
-        int n= sc.nextInt();
+        String input = sc.nextLine();
 
-        while(k<=n){
-            k=a+b;
-            System.out.println(k+" ");
-            a=b;// after printing k the b becomes a
-            b=k;
-
-            /// 
-
+        System.out.println(isPalindrome( input));
 
 
         }
 
+        static String isPalindrome(String input){
+            String result="IS palindrome";
+            int length=input.length();
+
+            for(int i=0;i<length/2;i++){
+                if(input.charAt(i)!= input.charAt(length-i-1)){
+                    result="Not palindrome";
+                }
+
+            }
+            return result;
+
+            
+        }
+
     }
     
-}
+

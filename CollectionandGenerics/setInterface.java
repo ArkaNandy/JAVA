@@ -2,7 +2,7 @@ package CollectionandGenerics;
 import java.util.HashMap;
 import java.util.Map;
 
-public class mapInterface {
+public class setInterface {
     public static void main(String[] args) {
         Map<String, String> mp = new HashMap<>();
         mp.put("My name","Navin"); // first one is a key and the other one is a value

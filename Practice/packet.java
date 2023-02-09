@@ -1,3 +1,5 @@
+package Practice;
+
 public class packet {
     static boolean check(String s) {
         return false;

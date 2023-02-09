@@ -24,7 +24,7 @@ public class Mergesort {
         while (index1 <= mid) {
             mergedarray[x++] = array[index2++];
         }
-        for (int i = 0, j = mid - 1; i < mergedarray.length; i++) {
+        for (int i = 0; i < mergedarray.length; i++) {
             array[i] = mergedarray[i];
         }
     }
