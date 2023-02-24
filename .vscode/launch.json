@@ -6,6 +6,237 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch removeduplicates",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.removeduplicates",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.factorial",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encapsulation",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.Encapsulation",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicatesinarray",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.duplicatesinarray",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicateelementsinthearrayusinghashset",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.duplicateelementsinthearrayusinghashset",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch countwordsfromacapitalizedstring",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.countwordsfromacapitalizedstring",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch countnumberofwords",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.countnumberofwords",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch vowelcount",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.vowelcount",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch printtheduplicatewordsinastring",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.printtheduplicatewordsinastring",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch coutnumberofwordsinastring",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.coutnumberofwordsinastring",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Containallsalphabetsornot",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.Containallsalphabetsornot",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch comparingtwoarrays",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.comparingtwoarrays",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Classesandobjects",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.Classesandobjects",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bubblesort",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.Bubblesort",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binarysearch",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.Binarysearch",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Averageofanarray",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.Averageofanarray",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagram",
+            "request": "launch",
+            "mainClass": "Javainterviewquestions2.Anagram",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetconcepts",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Set.HashSetconcepts",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vector1",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Vector.Vector1",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch inbuiltlinkedlist",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Linkedlist.inbuiltlinkedlist",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linkedlist",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Linkedlist.Linkedlist",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Converthasmaptoarraylist",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Hashmap.Converthasmaptoarraylist",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraylistmethods",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Arraylist.Arraylistmethods",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraylists2",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Arraylist.Arraylists2",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Synchronizedhashmap",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Hashmap.Synchronizedhashmap",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comparetwohashmaps",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Hashmap.Comparetwohashmaps",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hashmap",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Hashmap.Hashmap",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch comparetwoarraylists",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Arraylist.comparetwoarraylists",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeduplicateelementsusinglinkedhashset",
+            "request": "launch",
+            "mainClass": "Interviewquestionsjava.removeduplicateelementsusinglinkedhashset",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraylistsynchronizedmethod",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Arraylistsynchronizedmethod",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraylistmethods",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Arraylistmethods",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraylists2",
+            "request": "launch",
+            "mainClass": "CollectionandGenerics.Arraylists2",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
+            "name": "Launch percentageofdifferentcharactersinastring",
+            "request": "launch",
+            "mainClass": "Interviewquestionsjava.percentageofdifferentcharactersinastring",
+            "projectName": "JAVA_c7ee7e94"
+        },
+        {
+            "type": "java",
             "name": "Launch findalltheleadersinanarray",
             "request": "launch",
             "mainClass": "Interviewquestionsjava.findalltheleadersinanarray",

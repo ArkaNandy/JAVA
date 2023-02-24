@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 public class dupicateelementsinarrayusinghashset {
     public static void main(String[] args) {
-        String arr[] = { "java", "C", "C++", "Python", "Django", "java" };
+        String arr[] = { "java", "C", "C++", "Python", "Django", "java", "Django" };
 
         HashSet<String> hs1 = new HashSet<>();
         for (String l : arr) {

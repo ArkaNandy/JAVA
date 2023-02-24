@@ -6,7 +6,7 @@ class A {
     static String classTeacher;
 
     public void show() {
-        System.out.println("Name :" + name + "Rollno :" + rollno + "Class Teacher :" + classTeacher);
+        System.out.println("Name: " + name + " Rollno: " + rollno + " Class Teacher:" + classTeacher);
     }
 
 }
